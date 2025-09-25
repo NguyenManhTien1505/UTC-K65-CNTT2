@@ -1,0 +1,50 @@
+﻿@model EmployeeManagement.Models.Employee
+
+@{
+    ViewData["Title"] = "Chi tiết nhân viên";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h4>@ViewData["Title"]</h4>
+                </div>
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Id):</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Id)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.FullName):</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.FullName)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Gender):</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Gender)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Phone):</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Phone)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Email):</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Salary):</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Salary) VND</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Status):</dt>
+                        <dd class="col-sm-9">
+                            <span class="badge @(Model.Status == "Đang làm việc" ? "bg-success" : Model.Status == "Nghỉ việc" ? "bg-danger" : "bg-warning")">
+                                @Html.DisplayFor(model => model.Status)
+                            </span>
+                        </dd>
+                    </dl>
+
+                    <div class="d-flex justify-content-end gap-2">
+                        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+                        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Chỉnh sửa</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
