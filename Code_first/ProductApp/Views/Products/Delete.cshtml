@@ -1,0 +1,25 @@
+﻿@model ProductApp.Models.Product
+@{
+    ViewData["Title"] = "Xác nhận xoá sản phẩm";
+}
+
+<h2>Xác nhận xoá sản phẩm</h2>
+
+<div class="card p-3" style="width:400px">
+    <p><strong>Tên:</strong> @Model.Name</p>
+    <p><strong>Giá:</strong> @Model.Price</p>
+    <p><strong>Mô tả:</strong> @Model.Descriptions</p>
+    <p><strong>Loại:</strong> @Model.Category?.CategoryName</p>
+
+    <div>
+        <strong>Ảnh:</strong><br />
+        <img src="@Model.Image" width="150" />
+    </div>
+
+    <hr />
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Xoá</button>
+        <a asp-action="Index" class="btn btn-secondary">Huỷ</a>
+    </form>
+</div>
