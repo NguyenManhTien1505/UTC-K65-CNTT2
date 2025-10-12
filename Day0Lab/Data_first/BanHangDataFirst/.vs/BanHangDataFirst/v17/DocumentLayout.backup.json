@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA2366-2121-4069-872B-EC3BDC06E3D8}|BanHangDataFirst.csproj|d:\\nam3_hk1\\laptrinhweb\\banhangdatafirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CA2366-2121-4069-872B-EC3BDC06E3D8}|BanHangDataFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA2366-2121-4069-872B-EC3BDC06E3D8}|BanHangDataFirst.csproj|d:\\nam3_hk1\\laptrinhweb\\banhangdatafirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4CA2366-2121-4069-872B-EC3BDC06E3D8}|BanHangDataFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA2366-2121-4069-872B-EC3BDC06E3D8}|BanHangDataFirst.csproj|d:\\nam3_hk1\\laptrinhweb\\banhangdatafirst\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4CA2366-2121-4069-872B-EC3BDC06E3D8}|BanHangDataFirst.csproj|solutionrelative:views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA2366-2121-4069-872B-EC3BDC06E3D8}|BanHangDataFirst.csproj|d:\\nam3_hk1\\laptrinhweb\\banhangdatafirst\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CA2366-2121-4069-872B-EC3BDC06E3D8}|BanHangDataFirst.csproj|solutionrelative:controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\Models\\QlbanHangDataFirstContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\QlbanHangDataFirstContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SanPham\\Index.cshtml",
+              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\Views\\SanPham\\Index.cshtml*",
+              "RelativeToolTip": "Views\\SanPham\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:07:48.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\Controllers\\SanPhamController.cs*",
+              "RelativeToolTip": "Controllers\\SanPhamController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:05:46.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T16:04:15.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:00:43.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QlbanHangDataFirstContext.cs",
+              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\Models\\QlbanHangDataFirstContext.cs",
+              "RelativeDocumentMoniker": "Models\\QlbanHangDataFirstContext.cs",
+              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\BanHangDataFirst\\Models\\QlbanHangDataFirstContext.cs",
+              "RelativeToolTip": "Models\\QlbanHangDataFirstContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:59:14.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
