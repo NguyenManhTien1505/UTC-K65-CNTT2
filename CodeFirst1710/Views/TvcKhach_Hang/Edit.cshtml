@@ -1,0 +1,69 @@
+﻿@model CodeFirst1710.Models.TvcKhach_Hang
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>TvcKhach_Hang</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="tvcId" />
+            <div class="form-group">
+                <label asp-for="tvcMaKhachHang" class="control-label"></label>
+                <input asp-for="tvcMaKhachHang" class="form-control" />
+                <span asp-validation-for="tvcMaKhachHang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvcHoTenKhachHang" class="control-label"></label>
+                <input asp-for="tvcHoTenKhachHang" class="form-control" />
+                <span asp-validation-for="tvcHoTenKhachHang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvcEmail" class="control-label"></label>
+                <input asp-for="tvcEmail" class="form-control" />
+                <span asp-validation-for="tvcEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvcMatKhau" class="control-label"></label>
+                <input asp-for="tvcMatKhau" class="form-control" />
+                <span asp-validation-for="tvcMatKhau" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvcDienThoai" class="control-label"></label>
+                <input asp-for="tvcDienThoai" class="form-control" />
+                <span asp-validation-for="tvcDienThoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvcDiaChi" class="control-label"></label>
+                <input asp-for="tvcDiaChi" class="form-control" />
+                <span asp-validation-for="tvcDiaChi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvcNgayDangKy" class="control-label"></label>
+                <input asp-for="tvcNgayDangKy" class="form-control" />
+                <span asp-validation-for="tvcNgayDangKy" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvcTrangThai" class="control-label"></label>
+                <input asp-for="tvcTrangThai" class="form-control" />
+                <span asp-validation-for="tvcTrangThai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

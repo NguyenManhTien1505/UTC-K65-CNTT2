@@ -1,0 +1,89 @@
+﻿@model IEnumerable<CodeFirst1710.Models.TvcHoa_Don>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcMaHoaDon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcKhachHang)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcNgayHoaDon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcNgayNhan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcHoTenKhachHang)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcDienThoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcDiaChi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcTongTriGia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcTrangThai)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcMaHoaDon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcKhachHang.tvcMaKhachHang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcNgayHoaDon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcNgayNhan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcHoTenKhachHang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcDienThoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcDiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcTongTriGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcTrangThai)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.tvcId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.tvcId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.tvcId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

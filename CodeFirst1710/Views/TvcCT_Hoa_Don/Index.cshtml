@@ -1,0 +1,65 @@
+﻿@model IEnumerable<CodeFirst1710.Models.TvcCT_Hoa_Don>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcHoaDon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcSan_Pham)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcSoLuongMua)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcDonGiaMua)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcThanhTien)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcTrangThai)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcHoaDon.tvcId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcSan_Pham.tvcMaSanPham)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcSoLuongMua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcDonGiaMua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcThanhTien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcTrangThai)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
