@@ -1,0 +1,71 @@
+﻿@model IEnumerable<nmt_231230923_de02.Models.NmtCatalog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="NmtCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NmtCateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NmtCatePrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NmtCateQty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NmtPicture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NmtCateActive)
+            </th>
+            <th>
+                Thanh tien
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NmtCateName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NmtCatePrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NmtCateQty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NmtPicture)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NmtCateActive)
+            </td>
+                <td>
+                    @{
+                        // Tính thành tiền an toàn với giá trị null
+                        var price = item.NmtCatePrice ?? 0m;
+                        var qty = item.NmtCateQty ?? 0;
+                        var total = price * qty;
+                    }
+                    @total.ToString("C")
+                </td>
+            <td>
+                <a asp-action="NmtEdit" asp-route-id="@item.NmtId">Edit</a> |
+                <a asp-action="NmtDetails" asp-route-id="@item.NmtId">Details</a> |
+                <a asp-action="NmtDelete" asp-route-id="@item.NmtId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

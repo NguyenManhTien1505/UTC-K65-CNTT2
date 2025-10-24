@@ -7603,11 +7603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\CodeFirst1710.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\CodeFirst1710.csproj",
       "projectName": "CodeFirst1710",
-      "projectPath": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\CodeFirst1710.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\CodeFirst1710.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

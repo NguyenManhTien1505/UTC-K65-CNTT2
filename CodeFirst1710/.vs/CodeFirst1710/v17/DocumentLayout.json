@@ -1,65 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\",
+  "WorkspaceRootPath": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\controllers\\tvcct_hoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvcct_hoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\controllers\\tvchoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvchoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\controllers\\tvckhach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvckhach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\models\\tvcday09labcfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvcday09labcfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\models\\tvcsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvcsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\models\\tvcct_hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvcct_hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\controllers\\tvcquan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvcquan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\models\\tvcquan_tri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvcquan_tri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\models\\tvchoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvchoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\models\\tvckhach_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvckhach_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\models\\tvcloai_san_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\models\\tvcloai_san_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvcloai_san_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\controllers\\tvcsan_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvcsan_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\controllers\\tvcloai_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\controllers\\tvcloai_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvcloai_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\views\\tvcloai_san_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\models\\tvcsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvcsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\models\\tvcday09labcfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvcday09labcfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\controllers\\tvcsan_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvcsan_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\models\\tvcquan_tri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvcquan_tri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\models\\tvchoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvchoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\controllers\\tvcct_hoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvcct_hoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\controllers\\tvchoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvchoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\controllers\\tvckhach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvckhach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\models\\tvcct_hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvcct_hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\controllers\\tvcquan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:controllers\\tvcquan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\models\\tvckhach_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:models\\tvckhach_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\views\\tvcloai_san_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:views\\tvcloai_san_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\nam3_hk1\\laptrinhweb\\codefirst1710\\views\\tvcloai_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|d:\\documents\\github\\utc-k65-cntt2\\codefirst1710\\views\\tvcloai_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5EC13C7-6C8E-4FA2-8775-8E9E5561251D}|CodeFirst1710.csproj|solutionrelative:views\\tvcloai_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -70,202 +74,212 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TvcCT_Hoa_DonController.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcCT_Hoa_DonController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TvcCT_Hoa_DonController.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcCT_Hoa_DonController.cs",
-              "RelativeToolTip": "Controllers\\TvcCT_Hoa_DonController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:29:21.694Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TvcHoa_DonController.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcHoa_DonController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TvcHoa_DonController.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcHoa_DonController.cs",
-              "RelativeToolTip": "Controllers\\TvcHoa_DonController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TvcLoai_San_PhamController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcLoai_San_PhamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvcLoai_San_PhamController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcLoai_San_PhamController.cs",
+              "RelativeToolTip": "Controllers\\TvcLoai_San_PhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:28:52.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TvcKhach_HangController.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcKhach_HangController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TvcKhach_HangController.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcKhach_HangController.cs",
-              "RelativeToolTip": "Controllers\\TvcKhach_HangController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:28:21.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TvcQuan_TriController.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcQuan_TriController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TvcQuan_TriController.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcQuan_TriController.cs",
-              "RelativeToolTip": "Controllers\\TvcQuan_TriController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:20:52.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TvcQuan_Tri.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcQuan_Tri.cs",
-              "RelativeDocumentMoniker": "Models\\TvcQuan_Tri.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcQuan_Tri.cs",
-              "RelativeToolTip": "Models\\TvcQuan_Tri.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:16:35.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TvcCT_Hoa_Don.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcCT_Hoa_Don.cs",
-              "RelativeDocumentMoniker": "Models\\TvcCT_Hoa_Don.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcCT_Hoa_Don.cs",
-              "RelativeToolTip": "Models\\TvcCT_Hoa_Don.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:15:14.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TvcDay09LabCFContext.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcDay09LabCFContext.cs",
-              "RelativeDocumentMoniker": "Models\\TvcDay09LabCFContext.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcDay09LabCFContext.cs",
-              "RelativeToolTip": "Models\\TvcDay09LabCFContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswCUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T13:00:18.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TvcHoa_Don.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcHoa_Don.cs",
-              "RelativeDocumentMoniker": "Models\\TvcHoa_Don.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcHoa_Don.cs",
-              "RelativeToolTip": "Models\\TvcHoa_Don.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAwwBIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:13:26.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TvcKhach_Hang.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcKhach_Hang.cs",
-              "RelativeDocumentMoniker": "Models\\TvcKhach_Hang.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcKhach_Hang.cs",
-              "RelativeToolTip": "Models\\TvcKhach_Hang.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:11:24.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T13:19:48.301Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TvcSan_Pham.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcSan_Pham.cs",
-              "RelativeDocumentMoniker": "Models\\TvcSan_Pham.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcSan_Pham.cs",
-              "RelativeToolTip": "Models\\TvcSan_Pham.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBoAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T12:58:24.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "TvcSan_PhamController.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcSan_PhamController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcSan_PhamController.cs",
               "RelativeDocumentMoniker": "Controllers\\TvcSan_PhamController.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcSan_PhamController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcSan_PhamController.cs",
               "RelativeToolTip": "Controllers\\TvcSan_PhamController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T13:23:02.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T13:23:02.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Views\\TvcLoai_San_Pham\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\TvcLoai_San_Pham\\Create.cshtml",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Views\\TvcLoai_San_Pham\\Create.cshtml",
-              "RelativeToolTip": "Views\\TvcLoai_San_Pham\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T15:14:57.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TvcLoai_San_PhamController.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcLoai_San_PhamController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TvcLoai_San_PhamController.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Controllers\\TvcLoai_San_PhamController.cs",
-              "RelativeToolTip": "Controllers\\TvcLoai_San_PhamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TvcQuan_Tri.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcQuan_Tri.cs",
+              "RelativeDocumentMoniker": "Models\\TvcQuan_Tri.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcQuan_Tri.cs",
+              "RelativeToolTip": "Models\\TvcQuan_Tri.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T13:19:48.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T16:16:35.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "TvcLoai_San_Pham.cs",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcLoai_San_Pham.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcLoai_San_Pham.cs",
               "RelativeDocumentMoniker": "Models\\TvcLoai_San_Pham.cs",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Models\\TvcLoai_San_Pham.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcLoai_San_Pham.cs",
               "RelativeToolTip": "Models\\TvcLoai_San_Pham.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T12:54:15.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TvcSan_Pham.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcSan_Pham.cs",
+              "RelativeDocumentMoniker": "Models\\TvcSan_Pham.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcSan_Pham.cs",
+              "RelativeToolTip": "Models\\TvcSan_Pham.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:58:24.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TvcDay09LabCFContext.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcDay09LabCFContext.cs",
+              "RelativeDocumentMoniker": "Models\\TvcDay09LabCFContext.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcDay09LabCFContext.cs",
+              "RelativeToolTip": "Models\\TvcDay09LabCFContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:00:18.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:01:47.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TvcCT_Hoa_DonController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcCT_Hoa_DonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvcCT_Hoa_DonController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcCT_Hoa_DonController.cs",
+              "RelativeToolTip": "Controllers\\TvcCT_Hoa_DonController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:29:21.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TvcHoa_Don.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcHoa_Don.cs",
+              "RelativeDocumentMoniker": "Models\\TvcHoa_Don.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcHoa_Don.cs",
+              "RelativeToolTip": "Models\\TvcHoa_Don.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:13:26.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TvcHoa_DonController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcHoa_DonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvcHoa_DonController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcHoa_DonController.cs",
+              "RelativeToolTip": "Controllers\\TvcHoa_DonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:28:52.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TvcKhach_HangController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcKhach_HangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvcKhach_HangController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcKhach_HangController.cs",
+              "RelativeToolTip": "Controllers\\TvcKhach_HangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:28:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TvcCT_Hoa_Don.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcCT_Hoa_Don.cs",
+              "RelativeDocumentMoniker": "Models\\TvcCT_Hoa_Don.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcCT_Hoa_Don.cs",
+              "RelativeToolTip": "Models\\TvcCT_Hoa_Don.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:15:14.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TvcQuan_TriController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcQuan_TriController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvcQuan_TriController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Controllers\\TvcQuan_TriController.cs",
+              "RelativeToolTip": "Controllers\\TvcQuan_TriController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:20:52.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TvcKhach_Hang.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcKhach_Hang.cs",
+              "RelativeDocumentMoniker": "Models\\TvcKhach_Hang.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Models\\TvcKhach_Hang.cs",
+              "RelativeToolTip": "Models\\TvcKhach_Hang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:11:24.519Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Views\\TvcLoai_San_Pham\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcLoai_San_Pham\\Create.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Views\\TvcLoai_San_Pham\\Create.cshtml",
+              "RelativeToolTip": "Views\\TvcLoai_San_Pham\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:14:57.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Views\\TvcLoai_San_Pham\\Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Views\\TvcLoai_San_Pham\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\TvcLoai_San_Pham\\Index.cshtml",
-              "ToolTip": "D:\\Nam3_HK1\\LapTrinhWeb\\CodeFirst1710\\Views\\TvcLoai_San_Pham\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\UTC-K65-CNTT2\\CodeFirst1710\\Views\\TvcLoai_San_Pham\\Index.cshtml",
               "RelativeToolTip": "Views\\TvcLoai_San_Pham\\Index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T15:18:08.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T15:18:08.719Z"
             }
           ]
         }
