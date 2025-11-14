@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Student>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Mã</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Ngành</th>
+            <th>Giới tính</th>
+            <th>Hệ ĐT</th>
+            <th>Địa chỉ</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model)
+        {
+            <tr>
+                <td>@s.Id</td>
+                <td>@s.Name</td>
+                <td>@s.DateOfBorth</td>
+                @{
+                    // Khởi tạo biến str và xử lý switch case
+                    string strBranch = "";
+                    switch (s.Branch)
+                    {
+                        // Giả định Branch.IT, Branch.BE... là các hằng số hoặc enum trong Model
+                        case "Branch.IT": // Dùng chuỗi nếu Branch trong Model là string
+                            strBranch = "CNTT";
+                            break;
+                        case "Branch.BE":
+                            strBranch = "Kinh tế";
+                            break;
+                        case "Branch.CE":
+                            strBranch = "Công trình";
+                            break;
+                        case "Branch.EE":
+                            strBranch = "Điện - Điện tử";
+                            break;
+                        default:
+                            strBranch = s.Branch;
+                            break;
+                    }
+                }
+                <td>@strBranch</td>
+
+                @{
+                    // Chuyển đổi giới tính
+                    string strGender = (s.Gender == "Gender.Male") ? "Nam" : "Nữ";
+                    // Dùng chuỗi "Gender.Male" nếu Gender trong Model là string
+                }
+                <td>@strGender</td>
+
+                <td>@(s.IsRegular ? "Chính quy" : "Phi chính quy")</td>
+                <td>@s.Address</td>
+                <td>@s.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Student" asp-action="Create" class="btn btn-primary">Create Student</a>
