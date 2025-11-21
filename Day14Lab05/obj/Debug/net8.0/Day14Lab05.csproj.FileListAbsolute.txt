@@ -1,0 +1,9 @@
+D:\Nam3_HK1\LapTrinhWeb\Day14Lab05\obj\Debug\net8.0\Day14Lab05.csproj.AssemblyReference.cache
+D:\Nam3_HK1\LapTrinhWeb\Day14Lab05\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Nam3_HK1\LapTrinhWeb\Day14Lab05\obj\Debug\net8.0\Day14Lab05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3_HK1\LapTrinhWeb\Day14Lab05\obj\Debug\net8.0\Day14Lab05.AssemblyInfoInputs.cache
+D:\Nam3_HK1\LapTrinhWeb\Day14Lab05\obj\Debug\net8.0\Day14Lab05.AssemblyInfo.cs
+D:\Nam3_HK1\LapTrinhWeb\Day14Lab05\obj\Debug\net8.0\Day14Lab05.csproj.CoreCompileInputs.cache
+D:\Nam3_HK1\LapTrinhWeb\Day14Lab05\obj\Debug\net8.0\Day14Lab05.MvcApplicationPartsAssemblyInfo.cache
+D:\Nam3_HK1\LapTrinhWeb\Day14Lab05\obj\Debug\net8.0\Day14Lab05.RazorAssemblyInfo.cache
+D:\Nam3_HK1\LapTrinhWeb\Day14Lab05\obj\Debug\net8.0\Day14Lab05.RazorAssemblyInfo.cs
